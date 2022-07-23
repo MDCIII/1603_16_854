@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Centre"@fra-Latn ;
-    wdata:q7200235 "BF13" ;
+    wdata:Q7200235 "BF13" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -57,7 +57,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:46" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Boucle du Mouhoun"@fra-Latn ;
-    wdata:q7200235 "BF46" ;
+    wdata:Q7200235 "BF46" ;
 .
 
 <urn:mdciii:1603:16:854:1:47>
@@ -68,7 +68,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:47" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Cascades"@fra-Latn ;
-    wdata:q7200235 "BF47" ;
+    wdata:Q7200235 "BF47" ;
 .
 
 <urn:mdciii:1603:16:854:1:48>
@@ -79,7 +79,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:48" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Centre-Est"@fra-Latn ;
-    wdata:q7200235 "BF48" ;
+    wdata:Q7200235 "BF48" ;
 .
 
 <urn:mdciii:1603:16:854:1:49>
@@ -90,7 +90,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:49" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Centre-Nord"@fra-Latn ;
-    wdata:q7200235 "BF49" ;
+    wdata:Q7200235 "BF49" ;
 .
 
 <urn:mdciii:1603:16:854:1:50>
@@ -101,7 +101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:50" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Centre-Ouest"@fra-Latn ;
-    wdata:q7200235 "BF50" ;
+    wdata:Q7200235 "BF50" ;
 .
 
 <urn:mdciii:1603:16:854:1:51>
@@ -112,7 +112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:51" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Centre-Sud"@fra-Latn ;
-    wdata:q7200235 "BF51" ;
+    wdata:Q7200235 "BF51" ;
 .
 
 <urn:mdciii:1603:16:854:1:52>
@@ -123,7 +123,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:52" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Est"@fra-Latn ;
-    wdata:q7200235 "BF52" ;
+    wdata:Q7200235 "BF52" ;
 .
 
 <urn:mdciii:1603:16:854:1:53>
@@ -134,7 +134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:53" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Hauts-Bassins"@fra-Latn ;
-    wdata:q7200235 "BF53" ;
+    wdata:Q7200235 "BF53" ;
 .
 
 <urn:mdciii:1603:16:854:1:54>
@@ -145,7 +145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:54" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Nord"@fra-Latn ;
-    wdata:q7200235 "BF54" ;
+    wdata:Q7200235 "BF54" ;
 .
 
 <urn:mdciii:1603:16:854:1:55>
@@ -156,7 +156,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:55" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Plateau-Central"@fra-Latn ;
-    wdata:q7200235 "BF55" ;
+    wdata:Q7200235 "BF55" ;
 .
 
 <urn:mdciii:1603:16:854:1:56>
@@ -167,7 +167,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:56" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Sahel"@fra-Latn ;
-    wdata:q7200235 "BF56" ;
+    wdata:Q7200235 "BF56" ;
 .
 
 <urn:mdciii:1603:16:854:1:57>
@@ -178,6 +178,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:854:1:57" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:854:0> ;
     skos:prefLabel "Sud-Ouest"@fra-Latn ;
-    wdata:q7200235 "BF57" ;
+    wdata:Q7200235 "BF57" ;
 .
 

@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:854()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:13" ;
     skos:prefLabel "Centre"@fra-Latn ;
-    wdata:q7200235 "BF13" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -52,7 +50,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:46" ;
     skos:prefLabel "Boucle du Mouhoun"@fra-Latn ;
-    wdata:q7200235 "BF46" ;
 .
 
 <urn:mdciii:1603:16:854:1:47>
@@ -61,7 +58,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:47" ;
     skos:prefLabel "Cascades"@fra-Latn ;
-    wdata:q7200235 "BF47" ;
 .
 
 <urn:mdciii:1603:16:854:1:48>
@@ -70,7 +66,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:48" ;
     skos:prefLabel "Centre-Est"@fra-Latn ;
-    wdata:q7200235 "BF48" ;
 .
 
 <urn:mdciii:1603:16:854:1:49>
@@ -79,7 +74,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:49" ;
     skos:prefLabel "Centre-Nord"@fra-Latn ;
-    wdata:q7200235 "BF49" ;
 .
 
 <urn:mdciii:1603:16:854:1:50>
@@ -88,7 +82,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:50" ;
     skos:prefLabel "Centre-Ouest"@fra-Latn ;
-    wdata:q7200235 "BF50" ;
 .
 
 <urn:mdciii:1603:16:854:1:51>
@@ -97,7 +90,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:51" ;
     skos:prefLabel "Centre-Sud"@fra-Latn ;
-    wdata:q7200235 "BF51" ;
 .
 
 <urn:mdciii:1603:16:854:1:52>
@@ -106,7 +98,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:52" ;
     skos:prefLabel "Est"@fra-Latn ;
-    wdata:q7200235 "BF52" ;
 .
 
 <urn:mdciii:1603:16:854:1:53>
@@ -115,7 +106,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:53" ;
     skos:prefLabel "Hauts-Bassins"@fra-Latn ;
-    wdata:q7200235 "BF53" ;
 .
 
 <urn:mdciii:1603:16:854:1:54>
@@ -124,7 +114,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:54" ;
     skos:prefLabel "Nord"@fra-Latn ;
-    wdata:q7200235 "BF54" ;
 .
 
 <urn:mdciii:1603:16:854:1:55>
@@ -133,7 +122,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:55" ;
     skos:prefLabel "Plateau-Central"@fra-Latn ;
-    wdata:q7200235 "BF55" ;
 .
 
 <urn:mdciii:1603:16:854:1:56>
@@ -142,7 +130,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:56" ;
     skos:prefLabel "Sahel"@fra-Latn ;
-    wdata:q7200235 "BF56" ;
 .
 
 <urn:mdciii:1603:16:854:1:57>
@@ -151,6 +138,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:854:1:57" ;
     skos:prefLabel "Sud-Ouest"@fra-Latn ;
-    wdata:q7200235 "BF57" ;
 .
 
